@@ -1,0 +1,7 @@
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Azure\AZ-204\MyFrameworkApplication\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
